@@ -14,19 +14,19 @@ To become a fully capable Rust smart contract developer within **6 months** by:
 
 ## 📅 Weekly Learning Progress
 
-| Week | Topics / Focus | Status |
-|------|----------------|--------|
-| Week 1 | 🛠️ Setup & Tooling: `rustup`, `cargo`, `crates.io`<br>Start Section 1 of the Ultimate Rust Crash Course | ✅ Started |
-| Week 2 | 🔄 Variables, Constants, Shadowing<br>Types: Scalar & Compound | 🔜 |
-| Week 3 | 🔁 Control Flow: `if`, `match`, loops<br>Functions & Modules | 🔜 |
-| Week 4 | 📚 Ownership, Borrowing, and References | 🔜 |
-| Week 5 | 🎮 **Project: Invaders Game** (Section 7 of the course) | 🔜 |
-| Week 6 | 🧱 Structs, Enums, Pattern Matching | 🔜 |
-| Week 7 | 🧰 Traits, Generics, and Lifetimes | 🔜 |
-| Week 8 | 🧪 Error Handling: `Result`, `Option`<br>Concurrency (`thread`, `Mutex`, `Arc`) | 🔜 |
-| Week 9 | 🛠️ **Final CLI Project** (Section 12) | 🔜 |
-| Week 10+ | 🌐 Blockchain-Specific Rust: Substrate, Solana, NEAR | 🔜 |
-| ...  |                      | |
+| Week     | Topics / Focus                                                                                     | Status      | Notes                |
+|----------|----------------------------------------------------------------------------------------------------|-------------|----------------------|
+| Week 1   | Setup & Tooling: `rustup`, `cargo`, `crates.io`<br>Start Section 1 of the Ultimate Rust Crash Course | In Progress | [Week 1 Notes](notes/week01.md) |
+| Week 2   | Variables, Constants, Shadowing<br>Types: Scalar & Compound                                       | Planned     |                      |
+| Week 3   | Control Flow: `if`, `match`, loops<br>Functions & Modules                                         | Planned     |                      |
+| Week 4   | Ownership, Borrowing, and References                                                              | Planned     |                      |
+| Week 5   | Project: Invaders Game (Section 7 of the course)                                                  | Planned     |                      |
+| Week 6   | Structs, Enums, Pattern Matching                                                                   | Planned     |                      |
+| Week 7   | Traits, Generics, and Lifetimes                                                                    | Planned     |                      |
+| Week 8   | Error Handling: `Result`, `Option`<br>Concurrency (`thread`, `Mutex`, `Arc`)                      | Planned     |                      |
+| Week 9   | Final CLI Project (Section 12)                                                                     | Planned     |                      |
+| Week 10+ | Blockchain-Specific Rust: Substrate, Solana, NEAR                                                  | Planned     |                      |
+| ...      |                                                                                                    |             |                      |
 
 _Updated weekly!_
 
