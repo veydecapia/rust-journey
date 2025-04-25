@@ -34,7 +34,7 @@ _Updated weekly!_
 
 ## 📘 Courses and Resources I'm Using
 
-- [Rust Programming Masterclass – Udemy](https://www.udemy.com/course/ultimate-rust-crash-course/)
+- [Ultimate Rust Crash Course – Udemy](https://www.udemy.com/course/ultimate-rust-crash-course/)
 - [The Rust Book (Official)](https://doc.rust-lang.org/book/)
 - [Substrate Blockchain Developer Hub](https://substrate.dev)
 - [Solana Developer Resources](https://soldev.app)
