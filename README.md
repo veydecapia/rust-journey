@@ -16,8 +16,8 @@ To become a fully capable Rust smart contract developer within **6 months** by:
 
 | Week     | Topics / Focus                                                                                     | Status      | Notes                |
 |----------|----------------------------------------------------------------------------------------------------|-------------|----------------------|
-| Week 1   | Setup & Tooling: `rustup`, `cargo`, `crates.io`<br>Start Section 1 of the Ultimate Rust Crash Course | In Progress | [Week 1 Notes](notes/week01.md) |
-| Week 2   | Variables, Constants, Shadowing<br>Types: Scalar & Compound                                       | Planned     |                      |
+| Week 1   | Setup & Tooling: `rustup`, `cargo`, `crates.io`<br>Start Section 1 of the Ultimate Rust Crash Course | Completed | [Week 1 Notes](notes/week01.md) |
+| Week 2   | Variables, Constants, Shadowing<br>Types: Scalar & Compound                                       | In Progress | [Week 2 Notes](notes/week02.md)                     |
 | Week 3   | Control Flow: `if`, `match`, loops<br>Functions & Modules                                         | Planned     |                      |
 | Week 4   | Ownership, Borrowing, and References                                                              | Planned     |                      |
 | Week 5   | Project: Invaders Game (Section 7 of the course)                                                  | Planned     |                      |
